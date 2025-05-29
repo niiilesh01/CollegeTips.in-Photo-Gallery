@@ -1,2 +1,3 @@
 # CollegeTips.in-Photo-Gallery
-A clean and modern photo gallery built with HTML, CSS, and JS. Features responsive design, themed image sections with custom titles, and smooth hover effects. Great for showcasing photos or creative work.
+A sleek & modern photo gallery built with 💻 HTML, 🎨 CSS & ⚙️ JavaScript. Features smooth hover effects, themed image sections 🎞️, and a responsive layout 📱. Perfect for showcasing campus life, art, travel or portfolios.
+🚀 Live Demo
